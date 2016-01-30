@@ -1,0 +1,28 @@
+name: Owl Master Booking
+favicon: null
+layout_spectrum: 0.9173004620242864
+typography_spectrum: 0.8865780378691852
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.47924362146295607
+  lightness: 0.2679374546278268
+  saturation: 0.001653454266488552
+  rhythmicContrast: 0.1876974713522941
+purpose: []
